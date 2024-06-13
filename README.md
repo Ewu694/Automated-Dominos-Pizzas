@@ -1,5 +1,5 @@
 # Domino's Free Pizza Bot <br>
-This python script takes advantage of Dominos emergency pizza student program to automate the generation of codes for free pizzas to save both time and money <br>
+This python script takes advantage of Dominos emergency pizza student program to automate the generation of codes for free pizzas to save both time and money. Feel free to alter the libraries/code to better suit your needs <br>
 
 ## Libraries and corresponding Modules Used:
 - **undetected_chromedriver:** Script is to be ran on google chrome using the library undetected_chromedriver to avoid detection by websites that use mechanisms to identify and block automated browsing
