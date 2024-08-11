@@ -8,5 +8,9 @@ This python script takes advantage of Dominos emergency pizza student program to
 - **selenium.webdriver.support.expected_conditions as EC:** Used to specify what to wait for within the script
 - **Faker:** Used to generate a fake name each time when running script
 
+## Dependencies:
+
+- pip install undetected-chromedriver selenium faker
+
 <br><br>
 Enjoy your pizza! Hope I was able to save you some time and money :)
